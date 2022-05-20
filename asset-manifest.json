@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/get-skill-quote-machine/static/css/main.cba5754a.css",
+    "main.js": "/get-skill-quote-machine/static/js/main.7bd5de1d.js",
+    "static/js/787.9c2e55db.chunk.js": "/get-skill-quote-machine/static/js/787.9c2e55db.chunk.js",
+    "index.html": "/get-skill-quote-machine/index.html",
+    "main.cba5754a.css.map": "/get-skill-quote-machine/static/css/main.cba5754a.css.map",
+    "main.7bd5de1d.js.map": "/get-skill-quote-machine/static/js/main.7bd5de1d.js.map",
+    "787.9c2e55db.chunk.js.map": "/get-skill-quote-machine/static/js/787.9c2e55db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cba5754a.css",
+    "static/js/main.7bd5de1d.js"
+  ]
+}
